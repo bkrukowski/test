@@ -1,3 +1,5 @@
 $Format:%H$
 $Format:%d$
 $Format:%D$
+$Format:%gn$
+$Format:%gN$
